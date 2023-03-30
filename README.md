@@ -1,39 +1,54 @@
-# Hola, soy Arturo Miranda.
+<!-- Encabezado -->
+<h1 align="center">¡Hola! Soy Arturo Miranda</h1>
 
-Soy un principiante en la programación y estoy aprendiendo a crear proyectos emocionantes. Actualmente estoy estudiando backend con java.
-<!--
-## Proyectos
+<!-- Subtítulos -->
+<h3 align="center">Un principiante en programación que está aprendiendo cosas nuevas.</h3>
 
-- [Nombre del proyecto](enlace al proyecto) - Descripción corta del proyecto.
-- [Nombre del proyecto](enlace al proyecto) - Descripción corta del proyecto.
+<h4 align="center">Actualmente estoy estudiando backend con java.</h4>
+
+<!-- Proyectos 
+<h2>👨‍💻 Proyectos</h2>
+
+<ul>
+  <li>
+    <a href="enlace al proyecto">Nombre del proyecto</a> - Descripción corta del proyecto.
+  </li>
+  <li>
+    <a href="enlace al proyecto">Nombre del proyecto</a> - Descripción corta del proyecto.
+  </li>
+</ul>
 -->
-## Habilidades
-<!--
-- Lenguajes de programación: [Lista de lenguajes que estás aprendiendo]
--->
-- Herramientas: Git, GitHub, Visual Studio Code, Bash.
 
-## Contacto
+<!-- Habilidades -->
+<h2>🚀 Habilidades</h2>
 
-Puedes encontrarme en las siguientes redes sociales:
-<!--
-- [Twitter](enlace a tu cuenta de Twitter)
--->
-- [LinkedIn](https://www.linkedin.com/in/miracodex/)
+<ul>
+  <li>
+    Lenguajes de programación: Java
+  </li>
+  <li>
+    Herramientas: Git, GitHub, Visual Studio Code, Bash.
+  </li>
+</ul>
 
-¡Gracias por visitar mi perfil de GitHub!
+<!-- Contacto -->
+<h2>📫 Contacto</h2>
 
-<!--
-**miracodex/miracodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Puedes encontrarme en las siguientes redes sociales:</p>
 
-Here are some ideas to get you started:
+<ul>
+<!-- 
+  <li>
+    <a href="enlace a tu cuenta de Twitter">Twitter</a>
+  </li>
+ -->
+  <li>
+    <a href="https://www.linkedin.com/in/miracodex/">LinkedIn</a>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Firma -->
+<p align="center">
+  ¡Gracias por visitar mi perfil de GitHub!<br>
+  <img src="https://img.shields.io/badge/-Happy%20Coding-brightgreen" alt="Happy Coding">
+</p>
