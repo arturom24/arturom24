@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hola! Soy Arturo Miranda</h1>
+<h1 align="center">¡Hola👋! Soy Arturo Miranda</h1>
 
 <!-- Subtítulos -->
 <h3 align="center">Un principiante en programación que está aprendiendo cosas nuevas.</h3>
