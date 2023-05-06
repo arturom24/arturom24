@@ -50,5 +50,4 @@
 <!-- Firma -->
 <p align="center">
   ¡Gracias por visitar mi perfil de GitHub!<br>
-  <img src="https://img.shields.io/badge/-Happy%20Coding-brightgreen" alt="Happy Coding">
 </p>
